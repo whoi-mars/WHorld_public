@@ -1,0 +1,6 @@
+reaction_time:60ship_height:500,[nan nan nan  1.  1. nan]
+reaction_time:60ship_height:1000,[nan nan  1. nan nan  1.]
+reaction_time:300ship_height:500,[1.  1.  1.  1.  nan 0.5]
+reaction_time:300ship_height:1000,[ 1. nan  1.  1.  0.  0.]
+reaction_time:600ship_height:500,[nan  1. nan  0. nan  0.]
+reaction_time:600ship_height:1000,[ 1.  1. nan nan nan  0.]

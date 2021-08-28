@@ -1,0 +1,3 @@
+Case Description,Case #,epoch number,run time (s),grid width (m),ship height (m),ship number,ship speeds (m/s),ship heading (deg),angle of detection (deg),data detection function,ship reaction time #1 (s),ship reaction time #2 (s),ship reaction time #3 (s),whale number,mean whale velocity (m/s),std whale velocity (m/s),Interval btw blows (s),All whales blow,All whales surface,All whales subsurface,All whales deep,dive profile mode,plot probabilities,plot world,ETA display,Keep?
+IBI_120_DDF_deep,case1,50,3600,4000,500,3,5,90,20,1,60,300,600,100,1,0.2,120,0,0,0,0,deep,1,1,1,K
+IBI_300_DDF_deep,case2,50,3600,4000,500,3,5,90,20,1,60,300,600,100,1,0.2,300,0,0,0,0,deep,1,1,1,K

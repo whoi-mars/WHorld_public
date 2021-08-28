@@ -1,0 +1,14 @@
+reaction_time:60ship_height:500,[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+reaction_time:60ship_height:1000,[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+reaction_time:60ship_height:1500,[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+reaction_time:60ship_height:2000,[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+reaction_time:60ship_height:3000,[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+reaction_time:120ship_height:500,"[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 0.99864865 0.99695395 0.99685579]"
+reaction_time:120ship_height:1000,"[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         0.99896907 0.99916667]"
+reaction_time:120ship_height:1500,[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+reaction_time:120ship_height:2000,[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+reaction_time:120ship_height:3000,[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]

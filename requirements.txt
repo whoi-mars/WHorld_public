@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+pytictoc
+datetime
+logging
+openpyxl
+netCDF4

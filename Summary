@@ -1,0 +1,36 @@
+This document summarizes what all the scripts do:
+
+triage_repertoire_dp.py:
+- Process raw depths profiles to generate artificial state dive profiles
+
+IR_read_files.py
+- functions that import poipu/caperace/princeville/tng visual observation data
+- data consists of distances where animals where detected
+- from histograms, made curves of probability of detection as a function of distance from ship
+
+main_function.py
+- contains main code, where whales and ships detection are counted during a run time
+
+MAIN.py
+- function to call to run entire model.
+- it extracts & load cases to run from excel sheet, calls main_function.py to do the detection, and save results.
+
+ whale_func.py:
+ - contains function to create whale trajectories
+
+ ship_func.py
+ - contains function to create ship trajectories
+
+##PLOT
+plot_main_func.py:
+- function used in main model to plot WHorld hit detections and probabilities
+
+plot_whale_speed_variations:
+- contains functions to extract probability data from runs
+- use data to graph impact of varying ship speeds on in time detection probability, for different detection range, reaction time
+
+plot_superplot:
+- gather all the data from runs to graph mega plot of in time prob as a function of all parameters
+
+plt_rt_behaviorsvs_speed.py
+- graph many little plots about probability for specific parameters
